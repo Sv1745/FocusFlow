@@ -6,3 +6,7 @@ seaborn
 google-generativeai
 streamlit_calendar
 scikit-learn
+plotly
+sqlite3
+passlib
+PIL
